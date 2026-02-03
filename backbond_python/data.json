@@ -1,0 +1,221 @@
+
+{
+    "daily_plans": [
+        {
+            "day": 1,
+            "date": "2026-05-01",
+            "activities": [
+                {
+                    "time": "08:00-08:30",
+                    "activity": "酒店早餐",
+                    "location": "酒店内",
+                    "duration": 0.5,
+                    "cost": 0,
+                    "notes": "酒店提供早餐或附近早餐店"
+                },
+                {
+                    "time": "09:00-12:00",
+                    "activity": "参观故宫博物院",
+                    "location": "北京市东城区景山前街4号",
+                    "duration": 3,
+                    "cost": 60,
+                    "notes": "建议提前在官方渠道实名预约购票，租用讲解器以深入了解历史。"
+                },
+                {
+                    "time": "12:30-14:00",
+                    "activity": "午餐：品尝北京烤鸭",
+                    "location": "四季民福（故宫店）",
+                    "duration": 1.5,
+                    "cost": 150,
+                    "notes": "推荐预订窗边座位欣赏故宫角楼景色，建议提前通过APP或电话预订。"
+                },
+                {
+                    "time": "14:30-16:30",
+                    "activity": "游览天坛公园",
+                    "location": "北京市东城区天坛东里甲1号",
+                    "duration": 2,
+                    "cost": 15,
+                    "notes": "参观祈年殿、回音壁等核心建筑群。"
+                },
+                {
+                    "time": "17:30-19:30",
+                    "activity": "晚餐：老北京炸酱面",
+                    "location": "方砖厂69号炸酱面",
+                    "duration": 2,
+                    "cost": 35,
+                    "notes": "体验地道家常面食。"
+                },
+                {
+                    "time": "20:00-22:00",
+                    "activity": "夜游王府井小吃街",
+                    "location": "北京市东城区王府井大街",
+                    "duration": 2,
+                    "cost": 80,
+                    "notes": "品尝冰糖葫芦、爆肚等特色小吃，注意保管财物。"
+                }
+            ],
+            "total_day_cost": 340,
+            "transport_cost": 40,
+            "transport_notes": "全天以地铁为主（1号线、5号线），辅以短途步行。"
+        },
+        {
+            "day": 2,
+            "date": "2026-05-02",
+            "activities": [
+                {
+                    "time": "07:30-08:30",
+                    "activity": "早餐：体验豆汁焦圈",
+                    "location": "护国寺小吃（总店）",
+                    "duration": 1,
+                    "cost": 15,
+                    "notes": "品尝地道北京早餐组合，留意店内购票取餐流程。"
+                },
+                {
+                    "time": "09:30-12:30",
+                    "activity": "游览颐和园",
+                    "location": "北京市海淀区新建宫门路19号",
+                    "duration": 3,
+                    "cost": 30,
+                    "notes": "欣赏昆明湖、万寿山及长廊等景观。"
+                },
+                {
+                    "time": "13:00-14:00",
+                    "activity": "午餐（颐和园附近简餐）",
+                    "location": "园区附近餐厅",
+                    "duration": 1,
+                    "cost": 50,
+                    "notes": "可选择中式快餐或面食。"
+                },
+                {
+                    "time": "15:30-17:00",
+                    "activity": "下午茶：品尝宫廷点心",
+                    "location": "富华斋饽饽铺",
+                    "duration": 1.5,
+                    "cost": 60,
+                    "notes": "体验豌豆黄、驴打滚等清宫御点。"
+                },
+                {
+                    "time": "18:30-20:30",
+                    "activity": "晚餐：簋街美食探索",
+                    "location": "北京市东城区东直门内大街",
+                    "duration": 2,
+                    "cost": 120,
+                    "notes": "品尝麻辣小龙虾、火锅等夜宵名品。"
+                }
+            ],
+            "total_day_cost": 275,
+            "transport_cost": 60,
+            "transport_notes": "地铁4号线转公交前往颐和园，返回市区后使用地铁或网约车前往簋街。"
+        },
+        {
+            "day": 3,
+            "date": "2026-05-03",
+            "activities": [
+                {
+                    "time": "07:00-12:00",
+                    "activity": "游览八达岭长城",
+                    "location": "北京市延庆区八达岭镇",
+                    "duration": 5,
+                    "cost": 40,
+                    "notes": "建议乘坐旅游专线巴士或S2线火车前往，预留充足往返交通时间。"
+                },
+                {
+                    "time": "13:00-14:00",
+                    "activity": "午餐（长城景区附近简餐）",
+                    "location": "景区附近餐厅",
+                    "duration": 1,
+                    "cost": 60,
+                    "notes": "可选择农家菜或快餐。"
+                },
+                {
+                    "time": "16:00-18:00",
+                    "activity": "晚餐：卤煮火烧",
+                    "location": "北新桥卤煮老店",
+                    "duration": 2,
+                    "cost": 40,
+                    "notes": "体验经典市井小吃。"
+                },
+                {
+                    "time": "18:30-20:30",
+                    "activity": "前门大栅栏商业街游览",
+                    "location": "北京市西城区前门大街",
+                    "duration": 2,
+                    "cost": 100,
+                    "notes": "逛街购物，品尝小吃，体验老北京商业文化。"
+                }
+            ],
+            "total_day_cost": 240,
+            "transport_cost": 100,
+            "transport_notes": "全天交通以旅游专线巴士/火车为主，返回市区后使用地铁。"
+        }
+    ],
+    "total_cost": 3550,
+    "budget_breakdown": {
+        "accommodation": 1500,
+        "transport": 500,
+        "food": 850,
+        "attractions": 600,
+        "shopping_and_miscellaneous": 100
+    },
+    "accommodation_recommendation": {
+        "name": "北京前门建国饭店",
+        "location": "北京市西城区前门西大街",
+        "price_per_night": 500,
+        "features": ["靠近前门、天安门广场", "步行可达地铁2号线前门站", "中档酒店", "周边餐饮丰富"],
+        "total_cost_for_3_nights": 1500,
+        "selection_reason": "地理位置优越，便于游览故宫、天坛等核心历史文化景点，且符合中等预算。"
+    },
+    "transport_summary": {
+        "round_trip_to_beijing": "往返约1000元（中等预算下建议选择高铁二等座或特价机票）",
+        "local_transport": "市内交通以地铁为主，辅以公交和少量网约车，预计3天总计约200元。",
+        "tips": ["下载‘亿通行’和‘北京公交’APP扫码乘车", "避开早晚高峰（7:30-9:00, 17:00-19:00）", "长城距离远，建议安排专线交通"]
+    },
+    "key_attractions_included": [
+        {
+            "name": "故宫博物院",
+            "description": "中国明清两代的皇家宫殿，是世界上现存规模最大、保存最为完整的木质结构古建筑群之一。",
+            "price": 60
+        },
+        {
+            "name": "天坛公园",
+            "description": "明清两代皇帝祭天、祈谷和祈雨的场所，是中国现存最大的古代祭祀性建筑群。",
+            "price": 15
+        },
+        {
+            "name": "颐和园",
+            "description": "中国清朝时期皇家园林，被誉为“皇家园林博物馆”。",
+            "price": 30
+        },
+        {
+            "name": "八达岭长城",
+            "description": "明长城中保存最好、最具代表性的一段，是万里长城的精华。",
+            "price": 40
+        }
+    ],
+    "dining_highlights": [
+        {
+            "name": "北京烤鸭",
+            "recommended_restaurant": "四季民福（故宫店）",
+            "estimated_cost": 150
+        },
+        {
+            "name": "老北京炸酱面",
+            "recommended_restaurant": "方砖厂69号炸酱面",
+            "estimated_cost": 35
+        },
+        {
+            "name": "豆汁焦圈",
+            "recommended_restaurant": "护国寺小吃（总店）",
+            "estimated_cost": 15
+        }
+    ],
+    "general_tips": [
+        "所有热门景点（故宫、天坛、颐和园、长城）务必提前在官方渠道实名预约购票。",
+        "北京气候在5月温暖舒适，但早晚温差可能较大，建议携带外套。",
+        "品尝豆汁等特色食物前请做好心理准备，其风味独特。",
+        "美食街和景区人流量大，请注意保管好个人财物。",
+        "建议每日集中游览同一区域的景点，以节省交通时间。",
+        "随身携带少量现金，部分老字号餐厅可能只接受现金支付。",
+        "尊重当地文化习俗，在清真美食区勿外带非清真食品进入。"
+    ]
+}
